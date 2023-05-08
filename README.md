@@ -15,7 +15,7 @@ Os dados são persistidos com H2 Database Engine e sugestão de conferencia dos 
 ![ProdutoController](https://github.com/TiarleiNoeremberg/desafioResolvidoJPA/blob/main/assets/04.png?raw=true)
 
 # Modelo conceitual UML
-![ModeloConceitual](https://github.com/TiarleiNoeremberg/desafioResolvidoJPA/blob/main/assets/05.png?raw=true)
+![ModeloConceitual](https://github.com/TiarleiNoeremberg/desafioResolvidoJPA/blob/main/assets/05b.png?raw=true)
 
 # Tecnologias utilizadas na resolução do desafio
 - JAVA
